@@ -1,0 +1,192 @@
+name:Swift/ruzyysmartt private atom
+
+on: [push]
+
+jobs:Xml version 1.0
+  build:<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/ruzyysmartt</id>
+  <link type="text/html" rel="alternate" href="https://github.com/ruzyysmartt"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/ruzyysmartt.private.atom?token=AMMYWW34QQ3CX3C5TBKLHVN4BJ7QW"/>
+  <title>Private Feed for ruzyysmartt</title>
+  <updated>2019-12-20T17:38:32Z</updated>
+  <entry>
+    <id>tag:github.com,2008:ForkEvent/11136845210</id>
+    <published>2019-12-20T17:38:32Z</published>
+    <updated>2019-12-20T17:38:32Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/https-github-com-ruzyysmartt/ruzyysmartt-ether-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7"/>
+    <title type="html">https-github-com-ruzyysmartt forked https-github-com-ruzyysmartt/ruzyysmartt-ether-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7 from ruzyysmartt/ruzyysmartt-ether-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7</title>
+    <author>
+      <name>https-github-com-ruzyysmartt</name>
+      <uri>https://github.com/https-github-com-ruzyysmartt</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/59094606?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;fork&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- fork --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline border-bottom border-gray py-3&quot;&gt; 
+    &lt;span class=&quot;mr-3&quot;&gt;&lt;a class=&quot;d-inline-block&quot; data-hovercard-type=&quot;organization&quot; data-hovercard-url=&quot;/orgs/https-github-com-ruzyysmartt/hovercard&quot; href=&quot;/https-github-com-ruzyysmartt&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar&quot; src=&quot;https://avatars1.githubusercontent.com/u/59094606?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@https-github-com-ruzyysmartt&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+      &lt;div&gt;
+        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;div&gt;
+            &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/https-github-com-ruzyysmartt&quot; rel=&quot;noreferrer&quot;&gt;https-github-com-ruzyysmartt&lt;/a&gt;
+            
+            forked
+            &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; title=&quot;https-github-com-ruzyysmartt/ruzyysmartt-ether-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&quot; href=&quot;/https-github-com-ruzyysmartt/ruzyysmartt-ether-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&quot; rel=&quot;noreferrer&quot;&gt;https-github-com-ruzyysmartt/ruzyysmartt-ether-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&lt;/a&gt;
+            from
+            &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/ruzyysmartt/ruzyysmartt-ether-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&quot; rel=&quot;noreferrer&quot;&gt;ruzyysmartt/ruzyysmartt-ether-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&lt;/a&gt;
+            &lt;span class=&quot;f6 text-gray-light no-wrap ml-1&quot;&gt;
+              &lt;relative-time datetime=&quot;2019-12-20T17:38:32Z&quot; class=&quot;no-wrap&quot;&gt;Dec 21, 2019&lt;/relative-time&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;Box p-3 mt-2&quot;&gt;
+
+        &lt;div&gt;
+          &lt;div class=&quot;f4 lh-condensed text-bold text-gray-dark&quot;&gt;
+            &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/ruzyysmartt/ruzyysmartt-ether-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&quot; rel=&quot;noreferrer&quot;&gt;ruzyysmartt/ruzyysmartt-ether-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;dashboard-break-word text-gray mt-1 repo-description&quot;&gt;
+            &lt;p&gt;# # Eveem.org 26 Apr 2019 # Decompiled source of 0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7 # # Let&#39;s make the world open source # def storage: own…&lt;/p&gt;
+          &lt;/div&gt;
+
+          &lt;p class=&quot;f6 text-gray mt-2 mb-0&quot;&gt;
+
+              &lt;span class=&quot;d-inline-block mr-3&quot;&gt;
+                  &lt;a class=&quot;muted-link&quot; href=&quot;/ruzyysmartt/ruzyysmartt-ether-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7/stargazers&quot; rel=&quot;noreferrer&quot;&gt;
+                    &lt;svg class=&quot;octicon octicon-star mr-1&quot; viewBox=&quot;0 0 14 16&quot; version=&quot;1.1&quot; width=&quot;14&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;1
+&lt;/a&gt;              &lt;/span&gt;
+
+
+              &lt;span&gt;Updated Dec 21&lt;/span&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:ForkEvent/11136451125</id>
+    <published>2019-12-20T16:37:48Z</published>
+    <updated>2019-12-20T16:37:48Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/https-github-com-ruzyysmartt/ruzyysmartt-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7"/>
+    <title type="html">https-github-com-ruzyysmartt forked https-github-com-ruzyysmartt/ruzyysmartt-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7 from ruzyysmartt/ruzyysmartt-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7</title>
+    <author>
+      <name>https-github-com-ruzyysmartt</name>
+      <uri>https://github.com/https-github-com-ruzyysmartt</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/59094606?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;fork&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- fork --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline border-bottom border-gray py-3&quot;&gt; 
+    &lt;span class=&quot;mr-3&quot;&gt;&lt;a class=&quot;d-inline-block&quot; data-hovercard-type=&quot;organization&quot; data-hovercard-url=&quot;/orgs/https-github-com-ruzyysmartt/hovercard&quot; href=&quot;/https-github-com-ruzyysmartt&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar&quot; src=&quot;https://avatars1.githubusercontent.com/u/59094606?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@https-github-com-ruzyysmartt&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+      &lt;div&gt;
+        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;div&gt;
+            &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/https-github-com-ruzyysmartt&quot; rel=&quot;noreferrer&quot;&gt;https-github-com-ruzyysmartt&lt;/a&gt;
+            
+            forked
+            &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; title=&quot;https-github-com-ruzyysmartt/ruzyysmartt-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&quot; href=&quot;/https-github-com-ruzyysmartt/ruzyysmartt-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&quot; rel=&quot;noreferrer&quot;&gt;https-github-com-ruzyysmartt/ruzyysmartt-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&lt;/a&gt;
+            from
+            &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/ruzyysmartt/ruzyysmartt-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&quot; rel=&quot;noreferrer&quot;&gt;ruzyysmartt/ruzyysmartt-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&lt;/a&gt;
+            &lt;span class=&quot;f6 text-gray-light no-wrap ml-1&quot;&gt;
+              &lt;relative-time datetime=&quot;2019-12-20T16:37:48Z&quot; class=&quot;no-wrap&quot;&gt;Dec 21, 2019&lt;/relative-time&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;Box p-3 mt-2&quot;&gt;
+
+        &lt;div&gt;
+          &lt;div class=&quot;f4 lh-condensed text-bold text-gray-dark&quot;&gt;
+            &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/ruzyysmartt/ruzyysmartt-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&quot; rel=&quot;noreferrer&quot;&gt;ruzyysmartt/ruzyysmartt-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;dashboard-break-word text-gray mt-1 repo-description&quot;&gt;
+            &lt;p&gt;# # Eveem.org 26 Apr 2019 # Decompiled source of 0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7 # # Let&#39;s make the world open source # def storage: own…&lt;/p&gt;
+          &lt;/div&gt;
+
+          &lt;p class=&quot;f6 text-gray mt-2 mb-0&quot;&gt;
+
+              &lt;span class=&quot;d-inline-block mr-3&quot;&gt;
+                  &lt;a class=&quot;muted-link&quot; href=&quot;/ruzyysmartt/ruzyysmartt-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7/stargazers&quot; rel=&quot;noreferrer&quot;&gt;
+                    &lt;svg class=&quot;octicon octicon-star mr-1&quot; viewBox=&quot;0 0 14 16&quot; version=&quot;1.1&quot; width=&quot;14&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;1
+&lt;/a&gt;              &lt;/span&gt;
+
+
+              &lt;span&gt;Updated Dec 21&lt;/span&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:FollowEvent/10927223285</id>
+    <published>2019-11-22T16:14:43Z</published>
+    <updated>2019-11-22T16:14:43Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/ruzyysmartt"/>
+    <title type="html">Deemanst1 started following ruzyysmartt</title>
+    <author>
+      <name>Deemanst1</name>
+      <uri>https://github.com/Deemanst1</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/58064150?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;follow&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- follow --&gt;
+  &lt;div class=&quot;d-flex flex-items-baseline border-bottom border-gray py-3&quot;&gt;
+      &lt;span class=&quot;mr-3&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/Deemanst1&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar&quot; src=&quot;https://avatars0.githubusercontent.com/u/58064150?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@Deemanst1&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+
+    &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;div&gt;
+            &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/Deemanst1&quot; rel=&quot;noreferrer&quot;&gt;Deemanst1&lt;/a&gt;
+            started following
+              you
+            &lt;span class=&quot;f6 text-gray-light no-wrap ml-1&quot;&gt;
+              &lt;relative-time datetime=&quot;2019-11-22T16:14:43Z&quot; class=&quot;no-wrap&quot;&gt;Nov 23, 2019&lt;/relative-time&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;Box p-3 mt-2&quot;&gt;
+          &lt;div class=&quot;d-flex&quot;&gt;
+              &lt;a title=&quot;Deemanst1&quot; href=&quot;/Deemanst1&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar mr-2&quot; alt=&quot;Deemanst1&quot; src=&quot;https://avatars0.githubusercontent.com/u/58064150?s=80&amp;amp;v=4&quot; width=&quot;40&quot; height=&quot;40&quot;&gt;&lt;/a&gt;
+            &lt;div class=&quot;width-full ml-1&quot;&gt;
+              &lt;span class=&quot;lh-condensed text-gray-dark&quot;&gt;
+
+                &lt;span class=&quot;mr-1&quot;&gt;
+                      &lt;a class=&quot;f4 text-bold link-gray-dark no-underline&quot; href=&quot;/Deemanst1&quot; rel=&quot;noreferrer&quot;&gt;Deemanst1&lt;/a&gt;
+                &lt;/span&gt;
+
+              &lt;/span&gt;
+
+
+              &lt;p class=&quot;f6 text-gray m-0&quot;&gt;
+                    &lt;span class=&quot;mr-3&quot;&gt;
+                      &lt;a class=&quot;muted-link&quot; href=&quot;/Deemanst1?tab=repositories&quot; rel=&quot;noreferrer&quot;&gt;1 repository&lt;/a&gt;
+                    &lt;/span&gt;
+              &lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>
+
+
+    runs-on: macOS-latest
+
+    steps:Utf8
+    - uses: actions/checkout@v1
+    - name: Build
+      run: swift build -v
+    - name: Run tests
+      run: swift test -v
