@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:metastatuspage.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://metastatuspage.com"/>
+  <link rel="self" type="application/atom+xml" href="https://metastatuspage.com/history.atom"/>
+  <title>Atlassian Statuspage Status - Incident History</title>
+  <updated>2019-11-11T17:18:09-08:00</updated>
+  <author>
+    <name>Atlassian Statuspage</name>
+  </author>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/402</id>
+    <published>2019-11-11T14:30:00-08:00</published>
+    <updated>2019-11-11T16:53:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/mcnjskvgv0wn"/>
+    <title>Performance degradation in apse2 and euwest1</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Between 2:35pm - 3:15pm PST, we served malformed redirects for http requests in euwest1 and apse2 regions, which would have manifested as failed requests or error pages. We have currently reverted our changes. Please reach out to support if you are still experiencing issues.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/401</id>
+    <published>2019-11-10T18:19:56-08:00</published>
+    <updated>2019-11-10T18:19:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/1k18fr8tm2kq"/>
+    <title>Load Balancer Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;18:19&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:27&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Due to a pending restart on one of our load balancer nodes, SSL Provisioning will be unavailable for a short window of time during the time of maintenance.&lt;br /&gt;&lt;br /&gt;We do not expect there to be any impact to customers who have SSL (https) enabled on their pages, however the ability to enable SSL (https) for custom domains will not be available.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/367</id>
+    <published>2019-11-04T06:42:42-08:00</published>
+    <updated>2019-11-04T06:42:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/6rxqlh5swvt1"/>
+    <title>SSL errors while trying to access Statuspage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;06:42&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;06:25&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;06:12&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an issue that is causing some users to see an SSL error while trying to access statuspage domains.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/368</id>
+    <published>2019-11-01T18:00:00-07:00</published>
+    <updated>2019-11-05T13:07:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/4qwp4db52sf1"/>
+    <title>Statuspage Embed Widget failed to render properly on mobile devices</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Due to a recently introduced change, the Statuspage Embed Widget failed to render properly on mobile devices and made a percentage of the customer mobile sites difficult to interact with. We have identified and addressed the issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/366</id>
+    <published>2019-10-29T15:01:45-07:00</published>
+    <updated>2019-10-29T15:01:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/z6kc3rlsb2rc"/>
+    <title>Marketing site outage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;15:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:06&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're seeing issues with our marketing site ( www.statuspage.io ). The team is currently investigating this issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/365</id>
+    <published>2019-10-29T11:12:29-07:00</published>
+    <updated>2019-10-29T11:12:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/wyhbwy85sm35"/>
+    <title>Login issues for Page Access Users &amp; Page SAML 2.0</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;11:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing a problem with logins for these components. We are reverting some changes across our application to fix this issue. More updates to follow.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/364</id>
+    <published>2019-10-28T08:30:00-07:00</published>
+    <updated>2019-10-28T10:59:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/z4gl9z23h8yf"/>
+    <title>Increased latency on public pages</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Between 8:06 am - 8:33 am PST, we noticed a spike in traffic to one of our edge regions in Europe. As a result, a subset of European users may have experienced increased latency in trying to access public status pages.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/363</id>
+    <published>2019-10-04T01:00:00-07:00</published>
+    <updated>2019-10-04T11:14:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/4vnvfcqc0f66"/>
+    <title>Pingdom Metrics Integration downtime</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - From 1 am pdt to 7 am pdt the Pingdom Metrics Integration encountered errors causing metrics to not be updated.  This was a long enough gap in data that the metrics integrations were disabled.  Affected customers were notified.  We're working on reenabling metrics integrations and will email the affected customers when we do so.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/330</id>
+    <published>2019-10-03T13:55:00-07:00</published>
+    <updated>2019-10-03T14:49:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/27s4hx8p5k98"/>
+    <title>500 errors to public pages</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;13:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - A deploy to our caching layer caused a brief increase in HTTP 500 responses between 1:55 PM and 2:00 PM Pacific Time, impacting 30% of traffic to public status pages. This has since been remedied and the service is now operating normally.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/329</id>
+    <published>2019-09-29T02:48:00-07:00</published>
+    <updated>2019-09-30T12:26:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/9f7g108gw0vz"/>
+    <title>Public pages unavailability due to an unusual traffic pattern</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;02:48&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Between 2:48 AM and 2:49 AM PDT, we received a spike in traffic, which impacted our caching layer. This resulted in unavailability to some of our public pages for approximately one minute.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/328</id>
+    <published>2019-09-22T02:09:43-07:00</published>
+    <updated>2019-09-23T12:04:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/nnqgxnty66g6"/>
+    <title>Public pages unavailability due to traffic spike</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;02:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Between 2:09 AM and 2:11 AM PDT, we received a spike in traffic due to a customer outage, which impacted our caching layer. This resulted in unavailability to most of our public pages for approximately one minute.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/327</id>
+    <published>2019-09-04T10:33:16-07:00</published>
+    <updated>2019-09-04T10:36:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/mccpkqd3p74x"/>
+    <title>Metrics and Scheduled Maintenances delayed for 20 minutes.</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;10:33&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Metrics and Scheduled Maintenances were delayed for 20 minutes between 9:20 - 9:40 AM due to a bad code deployment. We reverted the change and fixed the issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/326</id>
+    <published>2019-08-30T11:11:37-07:00</published>
+    <updated>2019-08-30T11:11:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/vp8fl4wvpsk4"/>
+    <title>help.statuspage.io is currently unresponsive</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;11:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue has been resolved and the service is operating normally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:18&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We've identified issues with loading help.statuspage.io (our Knowledge Base).&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/325</id>
+    <published>2019-08-28T18:14:09-07:00</published>
+    <updated>2019-08-28T18:14:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/k4vs3hndph7w"/>
+    <title>Issue affecting small number of scheduled maintenances not beginning at scheduled time.</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;18:14&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This issue has been confirmed to be resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;17:27&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Between 3:30pm PST - 4:06pm PST one of our worker nodes was impacted due to a code deployment, which resulted in a small number of scheduled maintenances not beginning at the scheduled time. &lt;br /&gt;&lt;br /&gt;This has since been fixed, and we are monitoring to ensure the issue is resolve.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/323</id>
+    <published>2019-08-18T16:03:40-07:00</published>
+    <updated>2019-08-18T16:03:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/jcqcz2z0lgld"/>
+    <title>Network Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;16:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:33&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Verifying&lt;/strong&gt; - Verification is currently underway for the maintenance items.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is in progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;23:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Between 3:00 - 3:30 pm PST, we will need to finalize some changes for our networking infrastructure. &lt;br /&gt;&lt;br /&gt;During this window, we expect a small subset of our customers to experience intermittent connectivity issues to management portal, API, and statuspages. This behavior should only persist a few minutes.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/322</id>
+    <published>2019-08-16T15:34:58-07:00</published>
+    <updated>2019-08-16T15:34:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/j27vtn1v1d7w"/>
+    <title>Network Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;15:34&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;13:23&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Between 3:00 - 3:30 pm PST, there will be a network maintenance to improve redundancy on Statuspage. During this window, we expect a small subset of our customers to experience intermittent connectivity issues to the Manage portal, API, and public/privates pages, which should last only a few minutes.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/289</id>
+    <published>2019-08-13T18:00:19-07:00</published>
+    <updated>2019-08-14T11:24:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/9fzhnggx6fyx"/>
+    <title>Intermittent errors on public pages</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Between 6:03pm - 6:09pm, we noticed a spike in traffic to one of our edge regions. This may have resulted in intermittent 500 errors to some of our customers (less than ~ 10% of our traffic).&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/288</id>
+    <published>2019-08-13T11:14:13-07:00</published>
+    <updated>2019-08-13T11:14:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/m5969tk96g7n"/>
+    <title>Metastatuspage partially unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;11:14&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Metastatuspage partial outage is now resolved; we've reverted the breaking changes.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:35&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Metastatuspage was partially unavailable for another ~10 minutes due to a glitch in our continuous deploy process causing the broken release to be redeployed. The broken release has been rolled back again, so Metastatuspage is now available again. We are still investigating the root cause.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:06&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Parts of Metastatuspage functionality were unavailable for ~9 minutes. We have rolled back to a previous deploy and are now investigating the root cause.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/287</id>
+    <published>2019-08-12T09:50:50-07:00</published>
+    <updated>2019-09-06T10:55:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/c666y50f1xr9"/>
+    <title>Site unavailable due to errant database migration</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;09:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;09:26&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A routine data migration was found to have locked the primary database, causing request timeouts for all inbound requests.&lt;br /&gt;&lt;br /&gt;Everything has since recovered and is operating normally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;09:14&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We're investigating site unresponsiveness across all web entities&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/286</id>
+    <published>2019-08-06T16:08:32-07:00</published>
+    <updated>2019-08-06T16:08:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/qngtc1b4kvgy"/>
+    <title>Issue with Datadog metrics reporting</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;16:08&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;15:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor for any further issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;15:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have deployed a fix, and are now monitoring to make sure that the issue is resolved for those affected.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;14:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have found that a recent change has disrupted the delivery of Datadog metrics. &lt;br /&gt;&lt;br /&gt;We have developed a fix, and will update as soon as possible once it has been deployed.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/285</id>
+    <published>2019-08-05T15:58:28-07:00</published>
+    <updated>2019-08-05T15:58:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/rr25420yccg4"/>
+    <title>Degraded performance with SSL provisioning</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;15:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;15:48&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;13:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified some issues with our SSL provisioning pipeline wherein api requests to our upstream SSL provider are failing intermittently. We are working on a solution to fix this problem.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/284</id>
+    <published>2019-07-14T19:53:47-07:00</published>
+    <updated>2019-07-14T19:53:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/dbmqjmxjnwq2"/>
+    <title>Upgrading load balancers</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;19:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Load balancer upgrade has been completed. Thank you for your patience throughout this process.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;19:22&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We're still working through the upgrade, just a couple more clusters to go.&lt;br /&gt;&lt;br /&gt;Next update in 30 minutes or sooner if the maintenance is completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;18:41&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We've completed the update on one of our clusters, and are working through the remaining clusters.&lt;br /&gt;&lt;br /&gt;Next update in 30 minutes or sooner if the maintenance is completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The upgrade maintenance is taking longer than expected, the next status update will be in 30 minutes.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;17:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;17:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;15:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be upgrading our load balancers to enable TLS 1.3. During this time we don’t expect any impact to customers that have SSL (https) enabled on their pages. However, the ability to enable SSL (https) for custom domains won’t be available during this window.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/283</id>
+    <published>2019-07-08T10:12:24-07:00</published>
+    <updated>2019-07-08T10:24:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/lvtf2xr3ndm9"/>
+    <title>500 errors to public pages from malicious traffic</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;10:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Due to a network DDoS affecting our load balancing layer in the us-east region, we experienced a surge in HTTP 500 responses from our public pages between 8:32 AM - 09:02AM and 10:30am - 10:50am PDT. This impacted 16-20% of the total traffic to public pages during these windows.&lt;br /&gt;&lt;br /&gt;We have gone ahead and made some updates to our edge compute services to prevent similar problems from arising.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/282</id>
+    <published>2019-07-01T18:28:32-07:00</published>
+    <updated>2019-07-01T18:28:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/7cypx5gkm10s"/>
+    <title>[Scheduled] Twitter Integration Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;18:28&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Twitter re-authentication is up and running again. This maintenance has completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;18:26&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Maintenance is proceeding; twitter re-authentication is still degraded. We will provide further updates as soon as the issue is resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;17:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The maintenance for Twitter re-authentication has been extended. We will report an update in the next 30 minutes.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;17:14&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Twitter notifications are back.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;17:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;14:34&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - On July 1st at 5 PM PDT, Statuspage’s Twitter integration will go under maintenance. For five minutes, Twitter notifications triggered by incident updates will be delayed and, for thirty minutes, customers will not be able to re-authenticate with the Twitter integration. The integration is expected to return to normal operations at 5:30 PM PDT.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:metastatuspage.com,2005:Incident/281</id>
+    <published>2019-06-26T11:01:42-07:00</published>
+    <updated>2019-06-26T11:01:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://metastatuspage.com/incidents/3vcw2gkr3v1s"/>
+    <title>System Metrics failing to load on pages</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;11:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;10:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have reverted a code change, and are seeing metrics display as expected again. No metrics data was lost or ignored during this time, it was only an issue rendering the charts.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;10:41&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating reports that System Metrics are failing to load when viewing pages.&lt;/p&gt;</content>
+  </entry>
+</feed>
